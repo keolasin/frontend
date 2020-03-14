@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Emotion styled button renders correctly 1`] = `
+<DocumentFragment>
+  .emotion-0 {
+  color: hotpink;
+}
+
+<div
+    class="emotion-0 emotion-1"
+  >
+    This is hotpink.
+  </div>
+</DocumentFragment>
+`;
